@@ -15,6 +15,6 @@ NewsWorld is a dynamic news website developed using HTML, CSS, and JavaScript. I
 - JavaScript
 - [NewsAPI](https://newsapi.org/) for fetching news data
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 1](./news.png)
